@@ -1,0 +1,50 @@
+{
+ "edition": "2026 / spring 2027 turkey",
+ "verified": "2026-10-03",
+ "seasonYear": 2026,
+ "generatedAt": "2026-10-04T00:54:34+00:00",
+ "records": 1603,
+ "sources": [
+  {
+   "species": "antelope",
+   "mediaId": 33693,
+   "filename": "CH 5 04.22.2026.6 Final.pdf",
+   "sha256": "2225cdaa37a261ad4d0c97abe258ef6a1d9168a6a1ef79d76b738b2eb13d1aff",
+   "bytes": 366693,
+   "lastModified": "Tue, 28 Apr 2026 21:18:08 GMT",
+   "seasonYear": 2026,
+   "url": "https://wgfd.wyo.gov/media/33693/download"
+  },
+  {
+   "species": "deer",
+   "mediaId": 33694,
+   "filename": "CH 6 04.22.2026.6 Final.pdf",
+   "sha256": "16880340aa42c488d036f429d3003f4ad8a1ccc62340c5020f6013877920ab44",
+   "bytes": 436487,
+   "lastModified": "Tue, 28 Apr 2026 21:18:36 GMT",
+   "seasonYear": 2026,
+   "url": "https://wgfd.wyo.gov/media/33694/download"
+  },
+  {
+   "species": "elk",
+   "mediaId": 33695,
+   "filename": "CH 7 04.22.2026.6 Final.pdf",
+   "sha256": "ca8a58697b522334cc1061382b6bfab528214c9e6081616bdf82ab5f52cd3202",
+   "bytes": 452616,
+   "lastModified": "Tue, 28 Apr 2026 21:19:05 GMT",
+   "seasonYear": 2026,
+   "url": "https://wgfd.wyo.gov/media/33695/download"
+  },
+  {
+   "species": "turkey",
+   "mediaId": 33701,
+   "filename": "CH 20 04.22.2026.6 Final.pdf",
+   "sha256": "6ac6a2719dc0a2116999a6f76a82a8062a0807a8d238f98df7d7531876e0b344",
+   "bytes": 214854,
+   "lastModified": "Tue, 28 Apr 2026 21:21:42 GMT",
+   "seasonYear": 2026,
+   "url": "https://wgfd.wyo.gov/media/33701/download"
+  }
+ ],
+ "dataUrl": "https://emanchafee-code.github.io/frontiersman-site/data/hunting-data.json"
+}
