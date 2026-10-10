@@ -29,15 +29,15 @@ The app asks for location permission only when you use location features:
 - **While Using the App** — to show your position on the map and record a track while the app is open.
 - **Always** (optional) — only if you explicitly start a GPS recording and choose to let it continue while the screen is locked or the app is in the background. Recording stops when you stop it. Location data from recording is written to your device only; it is never sent to us.
 
-You can change or revoke location permission at any time in iOS Settings.
+You can change or revoke location permission at any time in iOS Settings or Android Settings.
 
 ## Requests to public map services
 
-To draw the map and look up land information, the app sends requests directly from your device to public government and map services — for example the U.S. Geological Survey, the Bureau of Land Management, the Wyoming Office of State Lands and Investments, the Wyoming Game and Fish Department, the Wyoming Department of Revenue parcel service and Esri World Imagery. These requests contain the map area you are viewing and any owner, parcel or town search text you type. Those services receive your device's IP address and are governed by their own policies. We do not operate them and do not see these requests.
+To draw the map and look up land information, the app sends requests directly from your device to public government and map services — for example the U.S. Geological Survey, the Bureau of Land Management, the Wyoming Office of State Lands and Investments, the Wyoming Game and Fish Department, the Wyoming Department of Revenue parcel service, Esri World Imagery and the National Weather Service. These requests contain the map area you are viewing, any owner, parcel or town search text you type, and — when you use wind features — the location you tapped or your current position, which is sent to the National Weather Service (api.weather.gov) to get the forecast for that spot. Those services receive your device's IP address and are governed by their own policies. We do not operate them and do not see these requests.
 
 ## My Hunt Pro
 
-My Hunt Pro is an optional auto-renewable subscription purchased through Apple. Apple handles payment, billing and your Apple ID; we never see your payment details. Subscription status is checked on your device through Apple's StoreKit. You can manage or cancel the subscription in your Apple ID settings.
+My Hunt Pro is an optional auto-renewable subscription purchased through Apple on iPhone (or Google Play on Android, when available). The store handles payment and billing; we never see your payment details. Subscription status is checked on your device through Apple's StoreKit. You can manage or cancel the subscription in your Apple ID settings.
 
 ## Children
 
