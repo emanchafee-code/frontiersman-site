@@ -4,11 +4,11 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# Frontiersman Privacy Policy
+# My Hunt Privacy Policy
 
-_Effective October 3, 2026_
+_Effective October 9, 2026_
 
-Frontiersman is a Wyoming hunting-map and field-planning app made by Emmanuel Chafee ("we"). This policy explains what the app does with your information. The short version: **your data stays on your device, and we do not collect it.**
+My Hunt is a Wyoming hunting-map and field-planning app made by Emmanuel Chafee ("we"). This policy explains what the app does with your information. The short version: **your data stays on your device, and we do not collect it.**
 
 ## What we do not do
 
@@ -18,7 +18,7 @@ Frontiersman is a Wyoming hunting-map and field-planning app made by Emmanuel Ch
 
 ## Information stored on your device
 
-- **Fieldbook** — waypoints, notes, measured routes, drawings and GPS tracks you create are stored only in the app's local storage on your phone. Deleting the app deletes them. Use **Export GeoJSON** to make your own backup. Your device's normal backups (iCloud or iTunes/Finder) may include this data under your Apple account's terms.
+- **Fieldbook** — waypoints, notes, measured routes, drawings and GPS tracks you create are stored only in the app's local storage on your phone. Deleting the app deletes them. Use **Export GeoJSON** to make your own backup. The app excludes its background-track file from iCloud/iTunes backups. Use Export GeoJSON to keep your own copy of field records.
 - **Offline map areas** — topo tiles and land-layer copies you download are stored on your device for offline use.
 - **Settings** — enabled layers, last map view and similar preferences.
 
@@ -35,13 +35,13 @@ You can change or revoke location permission at any time in iOS Settings.
 
 To draw the map and look up land information, the app sends requests directly from your device to public government and map services — for example the U.S. Geological Survey, the Bureau of Land Management, the Wyoming Office of State Lands and Investments, the Wyoming Game and Fish Department, the Wyoming Department of Revenue parcel service and Esri World Imagery. These requests contain the map area you are viewing and any owner, parcel or town search text you type. Those services receive your device's IP address and are governed by their own policies. We do not operate them and do not see these requests.
 
-## Frontiersman Pro
+## My Hunt Pro
 
-Frontiersman Pro is an optional auto-renewable subscription purchased through Apple. Apple handles payment, billing and your Apple ID; we never see your payment details. Subscription status is checked on your device through Apple's StoreKit. You can manage or cancel the subscription in your Apple ID settings.
+My Hunt Pro is an optional auto-renewable subscription purchased through Apple. Apple handles payment, billing and your Apple ID; we never see your payment details. Subscription status is checked on your device through Apple's StoreKit. You can manage or cancel the subscription in your Apple ID settings.
 
 ## Children
 
-Frontiersman is not directed at children under 13 and does not knowingly collect information from them.
+My Hunt is not directed at children under 13 and does not knowingly collect information from them.
 
 ## Changes
 
