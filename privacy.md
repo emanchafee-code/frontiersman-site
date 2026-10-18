@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # My Hunt Privacy Policy
 
-_Effective October 9, 2026_
+_Effective October 18, 2026_
 
 My Hunt is a Wyoming hunting-map and field-planning app made by Emmanuel Chafee ("we"). This policy explains what the app does with your information. The short version: **your data stays on your device, and we do not collect it.**
 
@@ -33,7 +33,7 @@ You can change or revoke location permission at any time in iOS Settings or Andr
 
 ## Requests to public map services
 
-To draw the map and look up land information, the app sends requests directly from your device to public government and map services — for example the U.S. Geological Survey, the Bureau of Land Management, the Wyoming Office of State Lands and Investments, the Wyoming Game and Fish Department, the Wyoming Department of Revenue parcel service, Esri World Imagery and the National Weather Service. These requests contain the map area you are viewing, any owner, parcel or town search text you type, and — when you use wind features — the location you tapped or your current position, which is sent to the National Weather Service (api.weather.gov) to get the forecast for that spot. Those services receive your device's IP address and are governed by their own policies. We do not operate them and do not see these requests.
+To draw the map and look up land information, the app sends requests directly from your device to public government and map services — for example the U.S. Geological Survey, the Bureau of Land Management, the Wyoming Office of State Lands and Investments, the Wyoming Game and Fish Department, the Wyoming Department of Revenue parcel service (the U.S. Geological Survey also provides the satellite imagery) and the National Weather Service. These requests contain the map area you are viewing, any owner, parcel or town search text you type, and — when you use wind features — the location you tapped or your current position, which is sent to the National Weather Service (api.weather.gov) to get the forecast for that spot. Those services receive your device's IP address and are governed by their own policies. We do not operate them and do not see these requests.
 
 ## My Hunt Pro
 

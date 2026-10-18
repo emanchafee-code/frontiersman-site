@@ -22,6 +22,6 @@ Common questions:
 
 ## Data sources
 
-Maps and land information come directly from public services: USGS, BLM, Wyoming Office of State Lands and Investments, Wyoming Game and Fish Department, Wyoming Department of Revenue parcels, U.S. Forest Service and Esri World Imagery. Boundaries are approximate and are not a legal survey or permission to enter.
+Maps and land information come directly from public services: USGS, BLM, Wyoming Office of State Lands and Investments, Wyoming Game and Fish Department, Wyoming Department of Revenue parcels, U.S. Forest Service. Satellite imagery: USGS The National Map: Orthoimagery. Boundaries are approximate and are not a legal survey or permission to enter.
 
 [Privacy Policy](privacy/)
